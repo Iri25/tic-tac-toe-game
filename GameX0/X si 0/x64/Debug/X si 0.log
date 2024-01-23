@@ -1,0 +1,61 @@
+﻿  Repository.cpp
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\Repository.cpp(35,66): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\Repository.cpp(36,1): warning C5043: 'Repository::get': exception specification does not match previous declaration
+  E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\Repository.h(20,12):
+  see declaration of 'Repository::get'
+  
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\Repository.cpp(49,81): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\Repository.cpp(50,1): warning C5043: 'Repository::update': exception specification does not match previous declaration
+  E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\Repository.h(23,7):
+  see declaration of 'Repository::update'
+  
+  Service.cpp
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\Service.cpp(22,63): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\Service.cpp(23,1): warning C5043: 'Service::get': exception specification does not match previous declaration
+  E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\Service.h(14,12):
+  see declaration of 'Service::get'
+  
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\Service.cpp(102,81): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\Service.cpp(103,1): warning C5043: 'Service::makeAMove': exception specification does not match previous declaration
+  E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\Service.h(18,7):
+  see declaration of 'Service::makeAMove'
+  
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\Service.cpp(126,65): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\Service.cpp(127,1): warning C5043: 'Service::isCellFree': exception specification does not match previous declaration
+  E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\Service.h(23,7):
+  see declaration of 'Service::isCellFree'
+  
+  TestRepository.cpp
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\TestRepository.cpp(55,31): warning C4101: 'e': unreferenced local variable
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\TestRepository.cpp(69,31): warning C4101: 'e': unreferenced local variable
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\TestRepository.cpp(83,31): warning C4101: 'e': unreferenced local variable
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\TestRepository.cpp(98,31): warning C4101: 'e': unreferenced local variable
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\TestRepository.cpp(112,31): warning C4101: 'e': unreferenced local variable
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\TestRepository.cpp(126,31): warning C4101: 'e': unreferenced local variable
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\TestRepository.cpp(140,31): warning C4101: 'e': unreferenced local variable
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\TestRepository.cpp(172,30): warning C4101: 'e': unreferenced local variable
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\TestRepository.cpp(185,31): warning C4101: 'e': unreferenced local variable
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\TestRepository.cpp(198,31): warning C4101: 'e': unreferenced local variable
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\TestRepository.cpp(211,31): warning C4101: 'e': unreferenced local variable
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\TestRepository.cpp(224,31): warning C4101: 'e': unreferenced local variable
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\TestRepository.cpp(237,31): warning C4101: 'e': unreferenced local variable
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\TestRepository.cpp(250,31): warning C4101: 'e': unreferenced local variable
+  TestService.cpp
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\TestService.cpp(43,31): warning C4101: 'e': unreferenced local variable
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\TestService.cpp(56,31): warning C4101: 'e': unreferenced local variable
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\TestService.cpp(70,31): warning C4101: 'e': unreferenced local variable
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\TestService.cpp(85,31): warning C4101: 'e': unreferenced local variable
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\TestService.cpp(99,31): warning C4101: 'e': unreferenced local variable
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\TestService.cpp(113,31): warning C4101: 'e': unreferenced local variable
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\TestService.cpp(127,31): warning C4101: 'e': unreferenced local variable
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\TestService.cpp(219,31): warning C4101: 'e': unreferenced local variable
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\TestService.cpp(233,31): warning C4101: 'e': unreferenced local variable
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\TestService.cpp(246,31): warning C4101: 'e': unreferenced local variable
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\TestService.cpp(261,31): warning C4101: 'e': unreferenced local variable
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\TestService.cpp(275,31): warning C4101: 'e': unreferenced local variable
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\TestService.cpp(289,31): warning C4101: 'e': unreferenced local variable
+E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\X si 0\TestService.cpp(303,31): warning C4101: 'e': unreferenced local variable
+  UserInterface.cpp
+  X si 0.cpp
+  Generating Code...
+  X si 0.vcxproj -> E:\Faculty\Undergraduate\FMI\2019-2020\Domeniul Matematică\Semestrul 2\Informatică\Programare orientată obiect\Seminare\Seminar 7\X și 0 - Cristina\x64\Debug\X si 0.exe
